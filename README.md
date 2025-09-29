@@ -26,6 +26,7 @@ Final Table:
 
 ![Final Table](ResultantTable.jpg)
 
+Power BI Report:
 
 ![See Dashboard](PowerBI_Report.jpg)
 
