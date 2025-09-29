@@ -27,6 +27,6 @@ Final Table:
 ![Final Table](ResultantTable.jpg)
 
 
-![See Dashboard](PowerBI Dashboard.jpg)
+![See Dashboard](PowerBI_Report.jpg)
 
 [See Full Dashboard Here!](https://app.powerbi.com/view?r=eyJrIjoiNGIyNGYxYWMtMzJmZS00ZjY4LWFmYzktNzFlMjg3MGM3MTNhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
