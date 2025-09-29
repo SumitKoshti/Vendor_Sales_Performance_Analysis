@@ -23,4 +23,10 @@ This involves analyzing brand performance, vendor contributions, bulk purchasing
   • Identify key factors driving profitability differences and suggest corrective actions.
 
 Final Table:
+
 ![Final Table](ResultantTable.jpg)
+
+
+![See Dashboard](PowerBI Dashboard.jpg)
+
+[See Full Dashboard Here!](https://app.powerbi.com/view?r=eyJrIjoiMjQ1MjEwMWUtYTRkZi00NWYxLTg1OTAtMzk0NjMyOGQ5MzE2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
