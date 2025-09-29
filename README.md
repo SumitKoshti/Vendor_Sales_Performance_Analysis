@@ -22,6 +22,8 @@ This involves analyzing brand performance, vendor contributions, bulk purchasing
   • Compare high-performing vs low-performing vendors in terms of profit margins.
   • Identify key factors driving profitability differences and suggest corrective actions.
 
+Downlaod Full Dataset:
+
 ![Download Data Files](https://drive.google.com/drive/folders/1erbLbZfkdrBo5fBNuPR1sFVMkdXnivg7)
 
 
