@@ -23,4 +23,4 @@ This involves analyzing brand performance, vendor contributions, bulk purchasing
   • Identify key factors driving profitability differences and suggest corrective actions.
 
 Final Table:
-![Final Table](Resultant Table.jpg)
+![Final Table](ResultantTable.jpg)
