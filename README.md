@@ -32,6 +32,8 @@ This involves analyzing brand performance, vendor contributions, bulk purchasing
 
 ![Final Table](ResultantTable.jpg)
 
+
+
 📈 Power BI Report:
 
 ![See Dashboard](PowerBI_Report.jpg)
@@ -39,7 +41,7 @@ This involves analyzing brand performance, vendor contributions, bulk purchasing
 [See Full Dashboard Here!](https://app.powerbi.com/view?r=eyJrIjoiNGIyNGYxYWMtMzJmZS00ZjY4LWFmYzktNzFlMjg3MGM3MTNhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 
-Project Process- 
+🔧 Project Process- 
 1. State and Understand the Business Problem: Clearly define the problem statement and objectives to guide the analysis.
 2. Gather Required Data: Collect relevant datasets including sales, inventory, and vendor information.
 3. Integrate Python with MySQL: Establish connection between Python and MySQL for data manipulation and ingestion.
