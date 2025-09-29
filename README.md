@@ -1,4 +1,4 @@
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/dc1996c4-2147-4e64-ac45-85e3fe68973a" />🎯 Project Objective :The objective of this project is to optimize inventory and sales management for a retail and wholesale business by identifying actionable insights that improve profitability. 
+🎯 Project Objective :The objective of this project is to optimize inventory and sales management for a retail and wholesale business by identifying actionable insights that improve profitability. 
 This involves analyzing brand performance, vendor contributions, bulk purchasing strategies, inventory efficiency, and profitability variances to support data-driven decision-making.
 
 📌 Key Points / Goals:
