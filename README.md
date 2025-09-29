@@ -24,7 +24,7 @@ This involves analyzing brand performance, vendor contributions, bulk purchasing
 
 Downlaod Full Dataset:
 
-![Download Data Files](https://drive.google.com/drive/folders/1erbLbZfkdrBo5fBNuPR1sFVMkdXnivg7)
+[Download Data Files]("https://drive.google.com/drive/folders/1erbLbZfkdrBo5fBNuPR1sFVMkdXnivg7")
 
 
 Final Table:
