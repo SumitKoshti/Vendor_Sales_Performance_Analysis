@@ -22,17 +22,17 @@ This involves analyzing brand performance, vendor contributions, bulk purchasing
   • Compare high-performing vs low-performing vendors in terms of profit margins.
   • Identify key factors driving profitability differences and suggest corrective actions.
 
-Downlaod Full Dataset:
+🗂️ Downlaod Full Dataset:
  
 [Download Data Files](https://drive.google.com/drive/folders/1erbLbZfkdrBo5fBNuPR1sFVMkdXnivg7)
 
 
 
-Final Table:
+🗄️ Final Table:
 
 ![Final Table](ResultantTable.jpg)
 
-Power BI Report:
+📈 Power BI Report:
 
 ![See Dashboard](PowerBI_Report.jpg)
 
