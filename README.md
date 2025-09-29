@@ -34,25 +34,23 @@ Power BI Report:
 
 
 Project Process- 
-• State and Understand the Business Problem: Clearly define the problem statement and objectives to guide the analysis.
-• Gather Required Data: Collect relevant datasets including sales, inventory, and vendor information.
-• Integrate Python with MySQL: Establish connection between Python and MySQL for data manipulation and ingestion.
-• Create Database in MySQL Using Python Script: Set up the necessary database structure for storing the data.
-• Ingest Data into Database: Load collected data into the MySQL database.
-• Use Bulk Import Method for Large Files: Efficiently handle large datasets by using bulk import techniques.
-• Create Tables in Database: Design and create structured tables to store the ingested data.
-• Ingest Large File Data into Tables Using Bulk Import via CMD: Use command-line tools to efficiently load big datasets.
-• Explore All Tables: Understand the structure and content of each table.
-• Join Tables and Select Required Columns: Combine relevant tables to create a single, comprehensive resultant table for analysis.
-• Exploratory Data Analysis (EDA) on Resultant Table: Perform initial analysis to identify trends, patterns, and anomalies.
-• Data Cleaning: Handle missing values, duplicates, and inconsistencies to ensure data quality.
-• Add Computational Columns: Create new columns for metrics, ratios, or KPIs required for analysis.
-• Data Visualization: Generate charts, graphs, and plots to visually interpret data.
-• Find Insights for Business Problems: Extract actionable insights to address the business objectives.
-• Perform Various Statistical and Analytical Testing: Validate hypotheses, test assumptions, and measure significance.
-• Use Clean Dataset in Power BI: Load the processed dataset into Power BI for advanced analysis.
-• Add Measures, Calculated Columns, and KPIs: Enhance the dataset for meaningful visualizations and metrics.
-• Create Power BI Report: Build interactive dashboards and reports to present insights effectively to stakeholders.
+1. State and Understand the Business Problem: Clearly define the problem statement and objectives to guide the analysis.
+2. Gather Required Data: Collect relevant datasets including sales, inventory, and vendor information.
+3. Integrate Python with MySQL: Establish connection between Python and MySQL for data manipulation and ingestion.
+4. Create Database in MySQL Using Python Script: Set up the necessary database structure for storing the data.
+5. Ingest Data into Database: Load collected data into the MySQL database.
+6. Use Bulk Import Method for Large Files: Efficiently handle large datasets by using bulk import techniques via CMD and efficiently load big datasets .
+7. Explore All Tables: Understand the structure and content of each table.
+8. Join Tables and Select Required Columns: Combine relevant tables to create a single, comprehensive resultant table for analysis.
+9. Exploratory Data Analysis (EDA) on Resultant Table: Perform initial analysis to identify trends, patterns, and anomalies.
+10. Data Cleaning: Handle missing values, duplicates, and inconsistencies to ensure data quality.
+11. Add Computational Columns: Create new columns for metrics, ratios, or KPIs required for analysis.
+12. Data Visualization: Generate charts, graphs, and plots to visually interpret data.
+13. Find Insights for Business Problems: Extract actionable insights to address the business objectives.
+14. Perform Various Statistical and Analytical Testing: Validate hypotheses, test assumptions, and measure significance.
+15. Use Clean Dataset in Power BI: Load the processed dataset into Power BI for advanced analysis.
+16. Add Measures, Calculated Columns, and KPIs: Enhance the dataset for meaningful visualizations and metrics.
+17. Create Power BI Report: Build interactive dashboards and reports to present insights effectively to stakeholders.
 
 🛠️ Tools used -
 
