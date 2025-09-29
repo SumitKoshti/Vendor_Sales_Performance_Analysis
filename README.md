@@ -31,3 +31,62 @@ Power BI Report:
 ![See Dashboard](PowerBI_Report.jpg)
 
 [See Full Dashboard Here!](https://app.powerbi.com/view?r=eyJrIjoiNGIyNGYxYWMtMzJmZS00ZjY4LWFmYzktNzFlMjg3MGM3MTNhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
+
+Project Process- 
+• State and Understand the Business Problem: Clearly define the problem statement and objectives to guide the analysis.
+• Gather Required Data: Collect relevant datasets including sales, inventory, and vendor information.
+• Integrate Python with MySQL: Establish connection between Python and MySQL for data manipulation and ingestion.
+• Create Database in MySQL Using Python Script: Set up the necessary database structure for storing the data.
+• Ingest Data into Database: Load collected data into the MySQL database.
+• Use Bulk Import Method for Large Files: Efficiently handle large datasets by using bulk import techniques.
+• Create Tables in Database: Design and create structured tables to store the ingested data.
+• Ingest Large File Data into Tables Using Bulk Import via CMD: Use command-line tools to efficiently load big datasets.
+• Explore All Tables: Understand the structure and content of each table.
+• Join Tables and Select Required Columns: Combine relevant tables to create a single, comprehensive resultant table for analysis.
+• Exploratory Data Analysis (EDA) on Resultant Table: Perform initial analysis to identify trends, patterns, and anomalies.
+• Data Cleaning: Handle missing values, duplicates, and inconsistencies to ensure data quality.
+• Add Computational Columns: Create new columns for metrics, ratios, or KPIs required for analysis.
+• Data Visualization: Generate charts, graphs, and plots to visually interpret data.
+• Find Insights for Business Problems: Extract actionable insights to address the business objectives.
+• Perform Various Statistical and Analytical Testing: Validate hypotheses, test assumptions, and measure significance.
+• Use Clean Dataset in Power BI: Load the processed dataset into Power BI for advanced analysis.
+• Add Measures, Calculated Columns, and KPIs: Enhance the dataset for meaningful visualizations and metrics.
+• Create Power BI Report: Build interactive dashboards and reports to present insights effectively to stakeholders.
+
+🛠️ Tools used -
+
+● Mysql : 
+1. Table Creation & Dataset Import
+2. Data Checkup
+3. Data Cleanup
+4. Ad-Hoc analysis
+
+● Python :
+1. Integration with mysql
+2. Database creation
+3. Carry out exploratory data analysis
+4. Data visualization
+5. Carry out various Testings
+
+
+● Power BI :
+1. Integrated with mysql
+2. Import dataset
+3. Data modeling
+4. Dax 
+5. Mesures creation
+6. Report building
+
+● Microsoft word
+Created summary report to present insights in a concise way.
+
+📊 Insights & Recommendations :
+1.	Adjust pricing strategies for brands with low sales but high margins to increase sales volume while maintaining profitability.
+2.	Expand and diversify supplier relationships to reduce overreliance on a few vendors and minimize supply chain vulnerabilities.
+3.	Capitalize on bulk purchasing benefits to sustain competitive pricing and improve inventory management efficiency.
+4.	Manage slow-moving inventory more effectively by optimizing purchase quantities, introducing clearance promotions, or refining storage practices.
+5.	Strengthen marketing and distribution efforts for underperforming vendors to boost sales volumes without eroding profit margins.
+6.	Implementing these actions will enable the company to drive sustainable profitability, lower risks, and improve overall operational performance.
+7.	By adopting these recommendations, the company can enhance long-term profitability, reduce risks, and streamline its operations for greater efficiency.
+
