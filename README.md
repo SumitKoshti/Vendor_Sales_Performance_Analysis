@@ -21,3 +21,6 @@ This involves analyzing brand performance, vendor contributions, bulk purchasing
 5. Investigate Profitability Variance:
   • Compare high-performing vs low-performing vendors in terms of profit margins.
   • Identify key factors driving profitability differences and suggest corrective actions.
+
+Final Table:
+![Final Table](Resultant Table.jpg)
