@@ -36,7 +36,7 @@ This involves analyzing brand performance, vendor contributions, bulk purchasing
 
 📈 Power BI Report:
 
-![See Dashboard](PowerBI_Report.jpg)
+![See Dashboard](Power_BI_Report.jpg)
 
 [See Full Dashboard Here!](https://app.powerbi.com/view?r=eyJrIjoiNGIyNGYxYWMtMzJmZS00ZjY4LWFmYzktNzFlMjg3MGM3MTNhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
