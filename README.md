@@ -3,9 +3,8 @@ This involves analyzing brand performance, vendor contributions, bulk purchasing
 
 📌 Key Points / Goals:
 1. Identify Underperforming Brands:
-   
-  • Detect brands with low sales or profitability.
-  • Recommend promotional or pricing strategies to boost sales without compromising margins.
+    • Detect brands with low sales or profitability.
+    • Recommend promotional or pricing strategies to boost sales without compromising margins.
 
 3. Evaluate Vendor Performance:
 
